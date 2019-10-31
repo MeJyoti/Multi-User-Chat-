@@ -1,3 +1,3 @@
 # Multi-User-Chat-
 
-Computer Network Assignment
+Computer Networks Assignment
